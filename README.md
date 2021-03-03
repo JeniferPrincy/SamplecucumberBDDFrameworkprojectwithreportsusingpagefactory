@@ -10,10 +10,6 @@ Step 6 - Run Feature file and check the execution
 2 - What is data-driven testing
 3 - How to run a feature multiple times with different sets of data
 
-Prerequisites (Completed in earlier session)
-1 - Project is setup with required maven dependencies (libraries) added
-2 - A sample login test 
-Demo site - https://example.testproject.io/web/​
 
 Step 1 - In the feature file select the values that need to be parameterized
 Step 2 - Put the values within conical brackets or double quotes (Parameterization)
